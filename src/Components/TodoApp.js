@@ -61,7 +61,7 @@ function TodoApp() {
 
             <nav class='bg-warning'>
                 <nav class='navbar-brand text-center p-3 fs-1 fw-bold'>
-                    <img src={todoLogo} alt="img" height='100' width='100'></img> Todo Woo</nav>
+                    <img src={todoLogo} alt="img" height='100' width='100'></img> Todo App</nav>
             </nav>
 
             <div class="d-flex justify-content-center m-3">
